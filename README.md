@@ -14,19 +14,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## 🔧 Projetos em destaque
 - 🧩 [LDE Sistemas](https://ldesistemas.com) – Automações e Chatbots Inteligentes  
 - 🤖 [Zenith Revelation](https://zenithrevelation.com) – Consultoria de integrações SAP 
 - 📊 [Carteira de Investimentos](#) – Dashboard de FIIs e Ações
 
----
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lopes-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipelopes)
 [![Email](https://img.shields.io/badge/Email-felipe.lopes@ldesistemas.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.lopes@ldesistemas.com)
 
----
 
 ⭐ **“Transformando ideias em código e código em resultados.”**
