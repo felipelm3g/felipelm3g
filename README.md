@@ -4,7 +4,6 @@
 🚀 Atuo com SAP CPI, SAP PI/PO, SAP ABAP, PHP, JavaScript e APIs.  
 🌍 Fundador da **LDE Sistemas** e criador da **Zenith Revelation**, com projetos no Brasil e em Portugal.
 
----
 
 ## 🧠 Tecnologias que uso
 ![SAP CPI](https://img.shields.io/badge/SAP_CPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
