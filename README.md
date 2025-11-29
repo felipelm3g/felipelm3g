@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Felipe Lopes
 
-💻 Especialista em integrações SAP e automações inteligentes.  
-🚀 Atuo com SAP CPI, SAP PI/PO, SAP ABAP, PHP, JavaScript e APIs.  
-🌍 Fundador da **LDE Sistemas** e criador da **Zenith Revelation**, com projetos no Brasil e em Portugal.
+💻 Especialista em integrações SAP, automações inteligentes e workflows n8n.  
+🚀 Atuo com SAP CPI, SAP PI/PO, SAP ABAP, PHP, JavaScript, APIs e automações n8n.  
+🌍 Fundador da **LDE Sistemas** ([ldesistemas.com](https://ldesistemas.com)) e criador da **Zenith Revelation**, com projetos no Brasil e em Portugal.
 
 
 ## 🧠 Tecnologias que uso
@@ -13,17 +13,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 🔧 Projetos em destaque
-- 🧩 [LDE Sistemas](https://ldesistemas.com) – Automações e Chatbots Inteligentes  
+- 🧩 [LDE Sistemas](https://ldesistemas.com) – Automações, Chatbots Inteligentes e integrações n8n  
 - 🤖 [Zenith Revelation](https://zenithrevelation.com) – Consultoria de integrações SAP 
 - 📊 [Carteira de Investimentos](#) – Dashboard de FIIs e Ações
-
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lopes-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipelopes)
 [![Email](https://img.shields.io/badge/Email-felipe.lopes@ldesistemas.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.lopes@ldesistemas.com)
-
 
 ⭐ **“Transformando ideias em código e código em resultados.”**
