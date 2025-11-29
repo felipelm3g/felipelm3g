@@ -18,7 +18,6 @@
 ## 🔧 Projetos em destaque
 - 🧩 [LDE Sistemas](https://ldesistemas.com) – Automações, Chatbots Inteligentes e integrações n8n  
 - 🤖 [Zenith Revelation](https://zenithrevelation.com) – Consultoria de integrações SAP 
-- 📊 [Carteira de Investimentos](#) – Dashboard de FIIs e Ações
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lopes-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipelopes)
