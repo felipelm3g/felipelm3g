@@ -3,7 +3,7 @@
 Sou um **Especialista em Integrações e Automação** com foco em conectar sistemas, criar fluxos inteligentes e transformar infraestrutura em soluções escaláveis.  
 Atuo desde o nível tecnológico (instalação, otimização e manutenção de serviços) até a camada de integrações corporativas (SAP, APIs, automações, monitoramento e orquestração).
 
-🌍 Fundador da **LDE Sistemas** ([ldesistemas.com](https://ldesistemas.com)) e criador da **Zenith Revelation**, com projetos realizados no Brasil e em Portugal.
+🌍 Fundador da **LDE Sistemas** ([ldesistemas.com](https://ldesistemas.com)) com projetos realizados no Brasil e em Portugal.
 
 ---
 
