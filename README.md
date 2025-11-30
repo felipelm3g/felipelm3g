@@ -21,7 +21,6 @@ Atuo desde o nível tecnológico (instalação, otimização e manutenção de s
   - **n8n**  
   - **Grafana**  
   - **EspoCRM**  
-  - **Wiki.js**  
   - Bancos de Dados  
   - Ferramentas de monitoramento e painéis  
 
@@ -51,6 +50,8 @@ Atuo desde o nível tecnológico (instalação, otimização e manutenção de s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![EspoCRM](https://img.shields.io/badge/EspoCRM-3B7ECF?style=for-the-badge)
 ![API](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logoColor=white)
 
 ---
 
