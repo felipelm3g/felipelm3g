@@ -62,7 +62,7 @@ Atuo desde o nível tecnológico (instalação, otimização e manutenção de s
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lopes-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipelopes](https://www.linkedin.com/in/felipelm3g)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lopes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipelm3g)  
 [![Email](https://img.shields.io/badge/Email-felipe.lopes@ldesistemas.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.lopes@ldesistemas.com)
 
 ---
